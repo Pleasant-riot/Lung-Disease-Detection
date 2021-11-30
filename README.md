@@ -1,1 +1,1 @@
-# pediatric pulmonary disease detection
+# Pediatric pulmonary disease detection

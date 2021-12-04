@@ -1,3 +1,5 @@
 torchsummary
 einops
 tqdm
+efficientnet_pytorch
+pip install --upgrade scikit-image

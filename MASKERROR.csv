@@ -1,0 +1,46 @@
+,identifier,sex,age_group,age,height,weight,report,pneumonia_type,orginal_dcm_file,body_part_file,diagnosis
+0,H13_01393_02,F,A3,8세,129.0,24.0,Ddx Slightly increased amount of the pleural effusion in left hemithorax,,/home/ncp/workspace/data/train/06.흉막삼출/A3.6-10세/H13_01393_02/org/H13_01393_02.dcm,/home/ncp/workspace/data/train/06.흉막삼출/A3.6-10세/H13_01393_02/mask/H13_01393_02_1.png,6
+1,H01_01036_01,M,A2,3세,,13.0,,,/home/ncp/workspace/data/train/06.흉막삼출/A2.3개월-5세/H01_01036_01/org/H01_01036_01.dcm,/home/ncp/workspace/data/train/06.흉막삼출/A2.3개월-5세/H01_01036_01/mask/H01_01036_01_1.png,6
+2,H13_01703_01,M,A3,6세,122.4,24.0,"Increased extent of the ill-defined increased opacities in right lung and LULF
+Suspiciously pneumothorax, right 
+Small amount of the pleural effusion with free fluid shifting in right hemithorax",,/home/ncp/workspace/data/train/06.흉막삼출/A3.6-10세/H13_01703_01/org/H13_01703_01.dcm,/home/ncp/workspace/data/train/06.흉막삼출/A3.6-10세/H13_01703_01/mask/H13_01703_01_1.png,6
+3,H02_01137_01,F,A2,2세,98.0,15.0,,,/home/ncp/workspace/data/train/06.흉막삼출/A2.3개월-5세/H02_01137_01/org/H02_01137_01.dcm,/home/ncp/workspace/data/train/06.흉막삼출/A2.3개월-5세/H02_01137_01/mask/H02_01137_01_1.png,6
+4,H02_01136_01,M,A2,1세,82.0,9.7,,,/home/ncp/workspace/data/train/06.흉막삼출/A2.3개월-5세/H02_01136_01/org/H02_01136_01.dcm,/home/ncp/workspace/data/train/06.흉막삼출/A2.3개월-5세/H02_01136_01/mask/H02_01136_01_1.png,6
+5,H04_01266_01,F,A3,6세,116.9,20.3,"Pleural effusion, left.",,/home/ncp/workspace/data/train/06.흉막삼출/A3.6-10세/H04_01266_01/org/H04_01266_01.dcm,/home/ncp/workspace/data/train/06.흉막삼출/A3.6-10세/H04_01266_01/mask/H04_01266_01_1.png,6
+6,H05_02284_01,M,A4,12세,,20.0,,,/home/ncp/workspace/data/train/06.흉막삼출/A4.11-15세/H05_02284_01/org/H05_02284_01.dcm,/home/ncp/workspace/data/train/06.흉막삼출/A4.11-15세/H05_02284_01/mask/H05_02284_01_1.png,6
+7,H13_00040_01,F,A1,0개월,,1.2,"Peribronchial increased opacity in the LLLF, no significant interval change.
+ -> r/o pneumonia.",3.0,/home/ncp/workspace/data/train/05.폐렴/A1.0-2개월/H13_00040_01/org/H13_00040_01.dcm,/home/ncp/workspace/data/train/05.폐렴/A1.0-2개월/H13_00040_01/mask/H13_00040_01_1.png,5
+8,H05_00201_02,F,A1,0개월,,0.6,,,/home/ncp/workspace/data/train/04.신생아호흡곤란증후군/A1.0-2개월/H05_00201_02/org/H05_00201_02.dcm,/home/ncp/workspace/data/train/04.신생아호흡곤란증후군/A1.0-2개월/H05_00201_02/mask/H05_00201_02_1.png,4
+9,H04_00133_01,M,A1,0개월,32.0,0.7,Diffuse hazziness in left lung and RULF. ETT insertion state.,,/home/ncp/workspace/data/train/04.신생아호흡곤란증후군/A1.0-2개월/H04_00133_01/org/H04_00133_01.dcm,/home/ncp/workspace/data/train/04.신생아호흡곤란증후군/A1.0-2개월/H04_00133_01/mask/H04_00133_01_1.png,4
+10,H04_01313_01,F,A3,9세,143.0,42.2,Suggestive of total atelectasis in left lung.,,/home/ncp/workspace/data/train/03.무기폐/A3.6-10세/H04_01313_01/org/H04_01313_01.dcm,/home/ncp/workspace/data/train/03.무기폐/A3.6-10세/H04_01313_01/mask/H04_01313_01_1.png,3
+11,H13_01441_02,M,A3,6세,122.4,24.0,Increased extent of the ill-defined increased opacities in right lung,,/home/ncp/workspace/data/train/03.무기폐/A3.6-10세/H13_01441_02/org/H13_01441_02.dcm,/home/ncp/workspace/data/train/03.무기폐/A3.6-10세/H13_01441_02/mask/H13_01441_02_1.png,3
+12,H13_01792_01,M,A3,8세,129.5,26.0,Possible total collapse on left lung.,,/home/ncp/workspace/data/train/03.무기폐/A3.6-10세/H13_01792_01/org/H13_01792_01.dcm,/home/ncp/workspace/data/train/03.무기폐/A3.6-10세/H13_01792_01/mask/H13_01792_01_1.png,3
+13,H13_01252_01,M,A2,3세,101.0,16.2,"Total ateletasis of left lung.
+ --> d/dx 1) pneumonia 
+              2) central obstructive foreign body.   
+ rec) clinical correlation. 
+ 
+Subtle peribronchial ill-defined increased opacity in RMLF.",,/home/ncp/workspace/data/train/03.무기폐/A2.3개월-5세/H13_01252_01/org/H13_01252_01.dcm,/home/ncp/workspace/data/train/03.무기폐/A2.3개월-5세/H13_01252_01/mask/H13_01252_01_1.png,3
+14,H13_01253_02,M,A2,3세,101.0,16.2,"Total ateletasis of left lung, no significant interval change.
+ --> d/dx 1) pneumonia 
+              2) central obstructive foreign body.   
+ rec) clinical correlation. 
+ 
+Peribronchial patchy increased opacity in RMLF, increased. 
+ --> possible bronchopneumonia.",,/home/ncp/workspace/data/train/03.무기폐/A2.3개월-5세/H13_01253_02/org/H13_01253_02.dcm,/home/ncp/workspace/data/train/03.무기폐/A2.3개월-5세/H13_01253_02/mask/H13_01253_02_1.png,3
+15,H04_02146_01,F,A2,5세,109.0,18.0,"Left lung total atetectsis, Rt lung hyperinfiltration",,/home/ncp/workspace/data/train/02.과다팽창/A2.3개월-5세/H04_02146_01/org/H04_02146_01.dcm,/home/ncp/workspace/data/train/02.과다팽창/A2.3개월-5세/H04_02146_01/mask/H04_02146_01_1.png,2
+16,H04_02479_02,F,A1,0개월,49.0,2.8,"Pneumothorax in right.
+Atelectasis in left lung.
+ETT insertion state.",,/home/ncp/workspace/data/train/01.공기누출/A1.0-2개월/H04_02479_02/org/H04_02479_02.dcm,/home/ncp/workspace/data/train/01.공기누출/A1.0-2개월/H04_02479_02/mask/H04_02479_02_1.png,1
+17,H13_00081_02,F,A1,0개월,51.0,3.1,"Right pneumothorax, increased",,/home/ncp/workspace/data/train/01.공기누출/A1.0-2개월/H13_00081_02/org/H13_00081_02.dcm,/home/ncp/workspace/data/train/01.공기누출/A1.0-2개월/H13_00081_02/mask/H13_00081_02_1.png,1
+18,H04_02490_02,M,A1,0개월,46.0,2.4,"Tension pneumothorax in right with mediastinal shifting to left.
+ETT insertion.
+Total atelectasis of both lungs.",,/home/ncp/workspace/data/train/01.공기누출/A1.0-2개월/H04_02490_02/org/H04_02490_02.dcm,/home/ncp/workspace/data/train/01.공기누출/A1.0-2개월/H04_02490_02/mask/H04_02490_02_1.png,1
+19,H04_00283_02,M,A1,0개월,40.0,1.3,"Increased amount of pneumothorax in right with aggravation of mediastinal 
+shifting to left. Endotracheal intubation state.",,/home/ncp/workspace/data/train/01.공기누출/A1.0-2개월/H04_00283_02/org/H04_00283_02.dcm,/home/ncp/workspace/data/train/01.공기누출/A1.0-2개월/H04_00283_02/mask/H04_00283_02_1.png,1
+20,H04_00282_01,M,A1,0개월,40.0,1.3,Moderate to large amount of pneumothorax in right with mediastinal shifting to left. Collapsed left lung. Endotracheal intubation state.,,/home/ncp/workspace/data/train/01.공기누출/A1.0-2개월/H04_00282_01/org/H04_00282_01.dcm,/home/ncp/workspace/data/train/01.공기누출/A1.0-2개월/H04_00282_01/mask/H04_00282_01_1.png,1
+21,H04_00255_01,F,A1,0개월,51.0,3.1,Pneumothorax in right. Collapsed left lung with mediastinal shifting to left.,,/home/ncp/workspace/data/train/01.공기누출/A1.0-2개월/H04_00255_01/org/H04_00255_01.dcm,/home/ncp/workspace/data/train/01.공기누출/A1.0-2개월/H04_00255_01/mask/H04_00255_01_1.png,1
+22,H01_00077_01,F,A1,0개월,28.0,0.5,,,/home/ncp/workspace/data/train/01.공기누출/A1.0-2개월/H01_00077_01/org/H01_00077_01.dcm,/home/ncp/workspace/data/train/01.공기누출/A1.0-2개월/H01_00077_01/mask/H01_00077_01_1.png,1
+23,H04_02478_01,F,A1,0개월,49.0,2.8,"Pneumothorax in right.
+Volume loss in left lung.
+ETT insertion state.",,/home/ncp/workspace/data/train/01.공기누출/A1.0-2개월/H04_02478_01/org/H04_02478_01.dcm,/home/ncp/workspace/data/train/01.공기누출/A1.0-2개월/H04_02478_01/mask/H04_02478_01_1.png,1

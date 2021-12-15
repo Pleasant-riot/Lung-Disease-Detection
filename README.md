@@ -58,5 +58,7 @@ U-net 모델을 적용하여 전체 X-Ray 부분에서 폐만 추출하였습니
 공모전에서 제공받은 독립적인 가상환경에서 하였기에 코드만 업로드를 하였습니다. 동모전 진행시 위와 동일한 과정을 거쳤습니다. 
 
 ## [Teammates]
+
 채승혜 https://github.com/SeunghyeChae
+
 진유훈 https://github.com/JINYUHOON

@@ -1,3 +1,6 @@
+# 공모전 2등 [ 소아흉부 폐질환 진단 및 분류 ] - NIA , 과학기술정보통신부, FA_solution , 고려대학교 
+--------------------------
+
 ![image](https://user-images.githubusercontent.com/60537388/145531886-a210ad21-c081-49f6-9b5e-de805b0f5700.png)
 ## 흉부 폐질환 진단 및 분류 / Pediatric pulmonary disease detection
 
@@ -62,3 +65,5 @@ U-net 모델을 적용하여 전체 X-Ray 부분에서 폐만 추출하였습니
 채승혜 https://github.com/SeunghyeChae
 
 진유훈 https://github.com/JINYUHOON
+
+박기범 https://github.com/KIBEOMP

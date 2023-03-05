@@ -1,6 +1,6 @@
 2021-12-17 > [공모전 2등]  
 ```- 소아흉부 폐질환 진단 및 분류- NIA , 과학기술정보통신부, FA_solution , 고려대학교```  
-
+ 
 [내용증명] : [공모전수상.pdf](https://github.com/Pleasant-riot/Lung-Disease-Detection/files/7764519/default.pdf)  
 ![image](https://user-images.githubusercontent.com/60537388/147138310-e8096107-e371-4191-a792-998fa5c3b0ea.png)  
 
@@ -8,7 +8,8 @@
 ![image](https://user-images.githubusercontent.com/60537388/145531886-a210ad21-c081-49f6-9b5e-de805b0f5700.png)
 ## 흉부 폐질환 진단 및 분류 / Pediatric pulmonary disease detection
 
-[Full_PDF] : [흉부.pdf](https://github.com/Pleasant-riot/Lung-Disease-Detection/files/7690712/default.pdf) 
+[Full_PDF] : [흉부.pdf](https://github.com/kikiru328/Lung-Disease-Detection/files/7920522/default.pdf)
+
 
 [Demonstration_Video] : [Demonstration.zip](https://github.com/Pleasant-riot/Lung-Disease-Detection/files/7690735/Demonstration.zip)
 
